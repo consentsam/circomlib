@@ -27,7 +27,7 @@ include "../comp_constant/comp_constant.circom";
 
 | Input              | Type                         |
 | -------------      | -------------                | 
-| `in[254]`          | Binary array of 245 bits     |
+| `in[254]`          | Binary array of 254 bits     |
 
 ## Outputs
 
